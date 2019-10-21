@@ -1,0 +1,4 @@
+DEFAULT-MONEY: 10000
+
+enable-offline-shop: true
+enable-online-shop: true
