@@ -1,6 +1,7 @@
 package iKguana.economy;
 
-import iKguana.profiler.Profiler;
+
+import iKguana.artonline.Profiler.Profiler;
 
 public class MoneyAPI {
 	private static MoneyAPI $instance = null;

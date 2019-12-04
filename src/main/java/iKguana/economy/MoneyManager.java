@@ -4,7 +4,7 @@ import cn.nukkit.command.Command;
 import cn.nukkit.command.CommandExecutor;
 import cn.nukkit.command.CommandSender;
 import cn.nukkit.command.PluginCommand;
-import iKguana.profiler.Profiler;
+import iKguana.artonline.Profiler.Profiler;
 
 public class MoneyManager implements CommandExecutor {
 	public MoneyManager() {

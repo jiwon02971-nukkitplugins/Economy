@@ -1,0 +1,6 @@
+iKguana\economy\ShopBase.class
+iKguana\economy\OfflineShopManager.class
+iKguana\economy\MoneyManager.class
+iKguana\economy\OnlineShopManager.class
+iKguana\economy\Economy.class
+iKguana\economy\MoneyAPI.class

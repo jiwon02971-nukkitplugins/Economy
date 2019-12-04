@@ -21,7 +21,7 @@ import cn.nukkit.form.window.FormWindowModal;
 import cn.nukkit.form.window.FormWindowSimple;
 import cn.nukkit.item.Item;
 import cn.nukkit.utils.Config;
-import iKguana.simpledialog.SimpleDialog;
+import iKguana.artonline.SimpleDialog.SimpleDialog;
 
 public class OnlineShopManager extends ShopBase implements CommandExecutor {
 	public Config tradeList;

@@ -36,12 +36,8 @@
 		</repository>
 
 		<repository>
-			<id>SimpleDialog</id>
-			<url>https://github.com/jiwon02971/SimpleDialog/tree/master</url>
-		</repository>
-		<repository>
-			<id>Profiler</id>
-			<url>https://github.com/jiwon02971/Profiler/tree/master</url>
+			<id>ArtOnline</id>
+			<url>https://github.com/jiwon02971/ArtOnline/tree/master</url>
 		</repository>
 	</repositories>
 
@@ -55,15 +51,21 @@
 
 		<dependency>
 			<groupId>iKguana</groupId>
-			<artifactId>SimpleDialog</artifactId>
+			<artifactId>ArtOnline</artifactId>
 			<version>1.0.0</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>iKguana</groupId>
-			<artifactId>Profiler</artifactId>
+			<artifactId>ArtOnline</artifactId>
 			<version>1.0.0</version>
-			<scope>provided</scope>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+			<groupId>iKguana</groupId>
+			<artifactId>ArtOnline</artifactId>
+			<version>1.0.0</version>
+			<scope>compile</scope>
 		</dependency>
 	</dependencies>
 
