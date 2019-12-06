@@ -8,7 +8,6 @@ public class Economy extends PluginBase {
 	public void onEnable() {
 		$instance = this;
 
-		new MoneyAPI();
 		new MoneyManager();
 		if (getConfig().getBoolean("enable-online-shop"))
 			new OnlineShopManager();

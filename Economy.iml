@@ -12,6 +12,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: cn.nukkit:nukkit:1.0-SNAPSHOT" level="project" />
-    <orderEntry type="module" module-name="ArtOnline" />
+    <orderEntry type="module" module-name="ArtOnline" scope="PROVIDED" />
   </component>
 </module>
